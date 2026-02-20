@@ -27,21 +27,5 @@ Permite realizar operações básicas entre dois números com validação de ent
 ```bash
 python calculadora_v1.py
 
-Exemplo de uso
 
-Digite um número: 10
-Digite outro número: 5
-Digite operador (+,-,*,/): +
-O resultado é:
-10.0 + 5.0 = 15.0
-Deseja sair?[s]im ou [n]ão: n
 
-Objetivo do projeto
-
-Praticar loops e lógica de programação básica
-
-Aprender a validar inputs e tratar erros
-
-Preparar para projetos mais complexos
-
-Mostrar evolução no GitHub como portfólio
